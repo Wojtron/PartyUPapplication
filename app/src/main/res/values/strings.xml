@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PartyUPapp</string>
+    <string-array name="marker_colours">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>orange</item>
+        <item>purple</item>
+    </string-array>
+</resources>
